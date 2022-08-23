@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huzaifa112233
 - 👀 I’m interested in Coding and and Designig
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me ...
+- 📫 How to reach me (huzaifaayaz3@gmail.com)
 
 <!---
 huzaifa112233/huzaifa112233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
